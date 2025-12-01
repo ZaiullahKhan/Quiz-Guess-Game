@@ -1,0 +1,47 @@
+{
+    "Saim": {
+        "wins": 4,
+        "losses": 2,
+        "score": 40
+    },
+    "saim": {
+        "wins": 7,
+        "losses": 0,
+        "score": 101
+    },
+    "ahmed": {
+        "wins": 1,
+        "losses": 0,
+        "score": 10
+    },
+    "ali": {
+        "wins": 1,
+        "losses": 0,
+        "score": 15
+    },
+    "saif": {
+        "wins": 1,
+        "losses": 0,
+        "score": 10
+    },
+    "saad": {
+        "wins": 2,
+        "losses": 0,
+        "score": 29
+    },
+    "zain": {
+        "wins": 1,
+        "losses": 2,
+        "score": 17
+    },
+    "Hasnain Khan": {
+        "wins": 2,
+        "losses": 0,
+        "score": 28
+    },
+    "za": {
+        "wins": 1,
+        "losses": 0,
+        "score": 15
+    }
+}
